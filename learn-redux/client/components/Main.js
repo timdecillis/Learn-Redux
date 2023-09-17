@@ -15,4 +15,3 @@ const Main = React.createClass({
 });
 
 export default Main;
-
